@@ -1,3 +1,11 @@
+---
+title: Estrategia
+navigation: false
+layout: page
+main:
+  fluid: false
+---
+
 # Processo page
 
 ---
